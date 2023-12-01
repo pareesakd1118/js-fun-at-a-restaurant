@@ -99,7 +99,6 @@ var groceryStore = {
     isOpen: true,
     yearsOpen: 50,
     street: "Haight"
-
 }
 
 
